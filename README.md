@@ -6,7 +6,11 @@ Specs:
 Size – 407.9 MB
 Vulnerabilities – Passed
 
-Dockerfile for testing with J2EE app - 
+---
+
+
+#Dockerfile for testing with J2EE app - 
+
  
 # Base Image
 FROM containers.cisco.com/dhsanghv/tomcat-rhel
